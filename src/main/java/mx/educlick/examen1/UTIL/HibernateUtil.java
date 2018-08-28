@@ -34,3 +34,5 @@ public class HibernateUtil {
         return sessionFactory;
     }
 }
+
+//Esto es un pequeño cambio para el commit
